@@ -61,7 +61,7 @@ export default {
     const currentTime = new Date()
     // const currentTime = new Date(2020, 8, 26, 8, 59, 55)
     const endTime = new Date(2021, 4, 4, 4, 0, 0)
-    const killTime = new Date(2020, 8, 26, 10, 30, 0)
+    const killTime = new Date(2021, 4, 4, 8, 30, 0)
     const timeZone = 'Europe/Berlin'
 
     // this.currentTime
