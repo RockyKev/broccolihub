@@ -1,5 +1,5 @@
 <template>
-  <img src="~assets/images/brocolli-dance.gif" />
+  <img src="~assets/images/broccoli-dance.gif" />
 </template>
 <style>
 .NuxtLogo {

@@ -385,10 +385,10 @@
           <div class="w-full sm:w-1/2 p-6 mt-6">
             <div class="align-middle">
               <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
-                10 ways to surprise your friends with Brocolli
+                10 ways to surprise your friends with broccoli
               </h3>
               <p class="text-gray-600 mb-8">
-                Number 9 will brocolli your socks off!<br /><br />
+                Number 9 will broccoli your socks off!<br /><br />
                 <!-- Images from: <a class="text-orange-500 underline" href="https://undraw.co/">undraw.co</a> -->
               </p>
             </div>

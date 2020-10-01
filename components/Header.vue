@@ -9,7 +9,7 @@
       >
         <!-- <p class="uppercase tracking-loose w-full">What business are you?</p> -->
         <h1 class="my-4 text-5xl font-bold leading-tight">
-          Brocolli Hub
+          broccoli Hub
         </h1>
         <p class="leading-normal text-2xl mb-8">
           Where people who like to pretend they are giants and tiny tree

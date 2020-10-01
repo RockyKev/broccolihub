@@ -1,7 +1,7 @@
 <template>
   <div class="timer-wrapper">
     <div class="timer bg-white paper-border">
-      <h2 class="timer-header-text">Brocolli Day Countdown:</h2>
+      <h2 class="timer-header-text">broccoli Day Countdown:</h2>
 
       <div class="timer-container">
         <div class="timer-bit">
